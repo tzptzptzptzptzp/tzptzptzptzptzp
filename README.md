@@ -6,7 +6,7 @@
 
 <div style="display:flex;" align="left">
   <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tzptzptzptzptzp&layout=compact&show_icons=true&hide_title=true&hide_border=true&hide=scss,css,html" />
-  <img height="120px" src="https://github-readme-stats.vercel.app/api?username=tzptzptzptzptzp&show_icons=true&count_private=true&hide_title=true&hide_border=true&hide=contribs" />
+  <img height="120px" src="https://github-readme-stats.vercel.app/api?username=tzptzptzptzptzp&show_icons=true&include_all_commits=true&number_format=long&hide_title=true&hide_border=true&hide=contribs" />
 </div>
 
 <div>
