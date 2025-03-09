@@ -9,7 +9,9 @@
   <img height="120px" src="https://github-readme-stats.vercel.app/api?username=tzptzptzptzptzp&show_icons=true&count_private=true&hide_title=true&hide_border=true&hide=contribs" />
 </div>
 
-### I'm busy growing my GitHub garden🌱!!!!!!
+<div>
+  <img width="655px" src="./images/balloon.png" />
+</div>
 
 <!--
 **tzptzptzptzptzp/tzptzptzptzptzp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
